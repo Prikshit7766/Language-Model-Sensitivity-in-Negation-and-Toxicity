@@ -8,7 +8,8 @@ To make sure these models can handle the real world, we need to test them thorou
 ### Why Sensitivity Tests Matters?
 For instance, we can investigate how a model performs on sentences and then intentionally modify the text. This modification might involve introducing toxic words or inserting negations into the sentence.
 
-![senstivity](https://github.com/Prikshit7766/Sensitivity-in-Negation-and-Toxicity/assets/101416953/b55b9f81-018c-4668-a4ab-63083259d23d)
+
+![senstivity](https://github.com/Prikshit7766/Sensitivity-in-Negation-and-Toxicity/assets/101416953/0b6210c0-2250-498e-877d-1123a3cd38ca)
 
 
 In the table above, we examine the Negation Test by presenting both the Original Text and the Transformed Text. Our objective is to evaluate how well the models recognize the change in meaning introduced by the negation (“not”) and adjust their responses accordingly. However, GPT-3.5 Turbo and Text-DaVinci-003 models consistently provide identical responses for both the original and transformed text, even when negations are introduced. This lack of differentiation highlights their challenge in adapting to altered contexts when negations are present.
