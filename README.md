@@ -1,5 +1,5 @@
 # [Sensitivity in Negation and Toxicity](https://medium.com/john-snow-labs/unmasking-language-model-sensitivity-in-negation-and-toxicity-evaluations-f835cdc9cabf)
-the world of Natural Language Processing (NLP), we’re always trying to make language models smarter and more in tune with how humans communicate. At its core, a crucial question arises:
+In the world of Natural Language Processing (NLP), we’re always trying to make language models smarter and more in tune with how humans communicate. At its core, a crucial question arises:
 
 > To what extent can these models truly comprehend and appropriately respond to the intricacies of language, including nuances like negations and the detection of toxicity?
 
